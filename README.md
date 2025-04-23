@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Júnior FullStack`**
 
-Me chamo Daniel Batista, tenho 22 anos e sou formado em Desenvolvimento de Software Técnico pelo Senac DF.
+Me chamo Daniel Batista, tenho 22 anos e sou formado em Desenvolvimento de Software Técnico pelo Senac.
 
 ---
 
