@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Daniel Batista
+# Daniel Batista
 
 **`Desenvolvedor Júnior FullStack`**
 
